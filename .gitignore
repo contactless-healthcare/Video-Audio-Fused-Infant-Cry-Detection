@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv-*/
+*.log
+/results/
+
+# Downloaded visual models and locally supplied private media/outputs.
+/weights/
+/input/
+/work/
