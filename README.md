@@ -59,3 +59,17 @@ To process your own recordings, follow [InfantVision](InfantVision/README.md). S
 ## Acknowledgements
 
 See [third-party sources and licenses](InfantVision/README.md#third-party-sources-and-licenses).
+
+## Citing this work
+Please cite the following paper if you find our code helpful.
+```
+@article{zhang2026video,
+  title={A Video-Audio Fused Infant Cry Detection System in the Noisy Clinical Environment},
+  author={Zhang, Xinyu and Xia, Ming and Huang, Dongmin and Zhu, Yingen and Wang, Qiqiong and He, Junli and Wang, Wenjin},
+  journal={IEEE Transactions on Affective Computing},
+  number={01},
+  pages={1--16},
+  year={2026},
+  publisher={IEEE Computer Society}
+}
+```
